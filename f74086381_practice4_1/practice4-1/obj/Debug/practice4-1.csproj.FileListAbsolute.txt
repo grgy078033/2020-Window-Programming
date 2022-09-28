@@ -1,0 +1,30 @@
+C:\Users\88693\source\repos\practice4-1\practice4-1\bin\Debug\practice4-1.exe.config
+C:\Users\88693\source\repos\practice4-1\practice4-1\bin\Debug\practice4-1.exe
+C:\Users\88693\source\repos\practice4-1\practice4-1\bin\Debug\practice4-1.pdb
+C:\Users\88693\source\repos\practice4-1\practice4-1\obj\Debug\practice4-1.csprojAssemblyReference.cache
+C:\Users\88693\source\repos\practice4-1\practice4-1\obj\Debug\practice4_1.Form1.resources
+C:\Users\88693\source\repos\practice4-1\practice4-1\obj\Debug\practice4_1.Properties.Resources.resources
+C:\Users\88693\source\repos\practice4-1\practice4-1\obj\Debug\practice4-1.csproj.GenerateResource.cache
+C:\Users\88693\source\repos\practice4-1\practice4-1\obj\Debug\practice4-1.csproj.CoreCompileInputs.cache
+C:\Users\88693\source\repos\practice4-1\practice4-1\obj\Debug\practice4-1.exe
+C:\Users\88693\source\repos\practice4-1\practice4-1\obj\Debug\practice4-1.pdb
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\bin\Debug\practice4-1.exe.config
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\bin\Debug\practice4-1.exe
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\bin\Debug\practice4-1.pdb
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\obj\Debug\practice4-1.csprojAssemblyReference.cache
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\obj\Debug\practice4_1.Form1.resources
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\obj\Debug\practice4_1.Properties.Resources.resources
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\obj\Debug\practice4-1.csproj.GenerateResource.cache
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\obj\Debug\practice4-1.csproj.CoreCompileInputs.cache
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\obj\Debug\practice4-1.exe
+D:\VisualStudio repos\practice4-1_update_3\practice4-1\obj\Debug\practice4-1.pdb
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\bin\Debug\practice4-1.exe.config
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\bin\Debug\practice4-1.exe
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\bin\Debug\practice4-1.pdb
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\obj\Debug\practice4-1.csprojAssemblyReference.cache
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\obj\Debug\practice4_1.Form1.resources
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\obj\Debug\practice4_1.Properties.Resources.resources
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\obj\Debug\practice4-1.csproj.GenerateResource.cache
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\obj\Debug\practice4-1.csproj.CoreCompileInputs.cache
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\obj\Debug\practice4-1.exe
+D:\VisualStudio repos\f74086381_practice4_1\practice4-1\obj\Debug\practice4-1.pdb

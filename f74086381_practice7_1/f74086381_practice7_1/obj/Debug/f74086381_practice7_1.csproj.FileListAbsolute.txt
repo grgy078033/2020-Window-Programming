@@ -1,0 +1,10 @@
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\bin\Debug\f74086381_practice7_1.exe.config
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\bin\Debug\f74086381_practice7_1.exe
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\bin\Debug\f74086381_practice7_1.pdb
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\obj\Debug\f74086381_practice7_1.csprojAssemblyReference.cache
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\obj\Debug\f74086381_practice7_1.Form1.resources
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\obj\Debug\f74086381_practice7_1.Properties.Resources.resources
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\obj\Debug\f74086381_practice7_1.csproj.GenerateResource.cache
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\obj\Debug\f74086381_practice7_1.csproj.CoreCompileInputs.cache
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\obj\Debug\f74086381_practice7_1.exe
+D:\VisualStudio repos\2020_WindowProgramming\f74086381_practice7_1\f74086381_practice7_1\obj\Debug\f74086381_practice7_1.pdb

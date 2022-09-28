@@ -1,0 +1,7 @@
+D:\VisualStudio repos\f74086381_practice3_2\f74086381_practice3_2\bin\Debug\f74086381_practice3_2.exe.config
+D:\VisualStudio repos\f74086381_practice3_2\f74086381_practice3_2\bin\Debug\f74086381_practice3_2.exe
+D:\VisualStudio repos\f74086381_practice3_2\f74086381_practice3_2\bin\Debug\f74086381_practice3_2.pdb
+D:\VisualStudio repos\f74086381_practice3_2\f74086381_practice3_2\obj\Debug\f74086381_practice3_2.csprojAssemblyReference.cache
+D:\VisualStudio repos\f74086381_practice3_2\f74086381_practice3_2\obj\Debug\f74086381_practice3_2.csproj.CoreCompileInputs.cache
+D:\VisualStudio repos\f74086381_practice3_2\f74086381_practice3_2\obj\Debug\f74086381_practice3_2.exe
+D:\VisualStudio repos\f74086381_practice3_2\f74086381_practice3_2\obj\Debug\f74086381_practice3_2.pdb
